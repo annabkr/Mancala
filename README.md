@@ -12,7 +12,7 @@ The position numbers (1 - 10) can be seen in the Position Key to the right of th
 
 Your (Player 1)'s end zone is on the right. Gerty (Player 2)'s end zone is on the left.
 
-The number inside of the square or rectangle represents the number of marbles there. 
+The number inside of the square or rectangle represents the number of marbles there.  
 
 The goal is to get as many marbles as possible into your end zone.
 
@@ -20,13 +20,11 @@ On your turn, select a position with marbles in it.
 
 All of the marbles will be taken out of that position, and they will move along the numerical path outlined in the Position Key.
 
-1 Marble will be dropped in each position passed until all the marbles have been dropped.
-
+One (1) Marble will be dropped in each position passed until all the marbles have been dropped.
 
 * If a player passes their opponent's end zone, it is skipped and no marble is dropped.
 * If a player passes over their OWN end zone, a marble is dropped.
 * If a player finishes their turn by dropping a marble in their end zone, they get another turn.
-*
 
 The game ends when a player has 5 marbles in their end zone.
 
@@ -36,4 +34,4 @@ The marbles remaining in the 4 left-hand holes will go into Player 2's end zone 
 
 The Player whose end zone has the most marbles at the end, wins.
 
-**Ready, Player One?!
+Ready, Player One?!
