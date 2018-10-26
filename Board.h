@@ -14,14 +14,8 @@ class Positions;
 class Board
 {
 public:
-    Board();
-    ~Board();
-
     void printBoard(Positions& myPositions, Movement& myMovement);
     void printEndGameBoard(Positions& myPositions, Movement& myMovement);
-
-private:
-
 };
 
 
