@@ -232,8 +232,3 @@ Options::Options()
 {
     difficultMode = false;
 }
-
-Options::~Options()
-{
-
-}

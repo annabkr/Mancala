@@ -99,10 +99,3 @@ MortalPlayer::MortalPlayer()
 
     letMeGoFirst = 0;
 }
-
-//Destructor
-
-MortalPlayer::~MortalPlayer()
-{
-
-}

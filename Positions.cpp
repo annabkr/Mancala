@@ -75,11 +75,3 @@ Positions::Positions()
    }
 
 }
-
-
-//Destructor
-
-Positions::~Positions()
-{
-
-}

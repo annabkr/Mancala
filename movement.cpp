@@ -364,8 +364,3 @@ Movement::Movement()
      position = 0;
      direction = 'a';
 }
-
-Movement::~Movement()
-{
-
-}
