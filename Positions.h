@@ -9,7 +9,6 @@ class Positions {
 
 public:
     Positions();
-    ~Positions();
 
     void setSquares();
     int getMarbles(int loc);
