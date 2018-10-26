@@ -16,7 +16,6 @@ class Options
 {
 public:
     Options();
-    ~Options();
 
     void showInstructions();            //When called, displays instructions for how to play the game.
 
