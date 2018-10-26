@@ -2,7 +2,7 @@
 
 This game is based off of the ancient board game of Mancala, with a twist.
 
-There are two players. You (Player 1) and Gerty (Player 2). 
+There are two players. You (Player 1) and Gerty (Player 2). (Yes, named after the computer character, GERTY, from Moon :) )
 
 Gerty is a computer player, but don't be alarmed. He is smart, but predictable.
 
