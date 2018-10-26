@@ -12,8 +12,7 @@ class Positions;
 class ComputerPlayer
 {
     public:
-        ComputerPlayer();
-        ~ComputerPlayer();
+        ComputerPlayer(); 
 
         void setRobotSelection(Positions& myPositions); //Gerty makes a selection, based on the required criteria.
         int getRobotSelection(int& selection);
