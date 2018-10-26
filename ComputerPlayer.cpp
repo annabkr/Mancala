@@ -222,10 +222,3 @@ ComputerPlayer::ComputerPlayer()
 
      halfTheBoard = 5;
 }
-
-//Destructor
-
-ComputerPlayer::~ComputerPlayer()
-{
-
-}
