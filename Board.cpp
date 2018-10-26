@@ -89,17 +89,3 @@ void Board::printEndGameBoard(Positions& myPositions, Movement& myMovement)
 
 
 }
-
-//Constructor
-
-Board::Board()
-{
-
-}
-
-//Destructor
-
-Board::~Board()
-{
-
-}
