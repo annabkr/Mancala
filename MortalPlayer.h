@@ -13,7 +13,6 @@ class MortalPlayer
 {
 public:
     MortalPlayer();
-    ~MortalPlayer();
 
     void setUserSelection(Positions& myPositions);
     int getUserSelection(int& select);
