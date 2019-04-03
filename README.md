@@ -1,8 +1,6 @@
 # Neo-Mancala
 
-My first large solo project. 
-
-This game is based off of the ancient board game of Mancala, with a twist.
+My first substantial solo project: a console game based off of the ancient board game of Mancala, with a twist.
 
 There are two players. You (Player 1) and Gerty (Player 2). 
 
