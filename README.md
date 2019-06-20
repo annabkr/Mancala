@@ -1,6 +1,8 @@
 # Neo-Mancala
 
-My first substantial solo project, from May 2018: a console game based off of the ancient board game of Mancala, with a twist.
+My first substantial solo project: a console game based off of the ancient board game of Mancala, with a twist. I created it my first semester as a CS student.
+
+It's rough and tumble, the code isn't as clean as the code I write today, but it works. I would say this is the project that made me fall in love with programming. Being able to brute-force a game into existence gave me a lot of confidence.
 
 There are two players. You (Player 1) and Gerty (Player 2). 
 
