@@ -4,7 +4,7 @@ My first substantial solo project: a console game based off of the ancient board
 
 It's rough and tumble, the code isn't as clean as the code I write today, but it works. I would say this is the project that made me fall in love with programming. Being able to brute-force a game into existence gave me a lot of confidence.
 
-<p align="center"><img width="457" alt="Screen Shot 2019-06-19 at 6 19 22 PM" src="https://user-images.githubusercontent.com/44475953/59811439-d2d31080-92be-11e9-8121-70612f6ab250.png"></p>
+<p align="center"><img width="457" alt="Neo-Mancala" src="https://user-images.githubusercontent.com/44475953/59811696-f3e83100-92bf-11e9-8a39-d6a9298c1993.png"></p>
 
 There are two players. You (Player 1) and Gerty (Player 2). 
 
