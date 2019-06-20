@@ -25,18 +25,14 @@ void ComputerPlayer::setRobotSelection(Positions& myPositions)
 
         robotSelection = choice;
 
-        if (found == false) //If not, selects the position with the most marbles on the right to left path.
-            {
-                {     findLargest(myPositions, found, largestSoFar, isLargest);
+        if (found == false){ //If not, selects the position with the most marbles on the right to left path.
+            findLargest(myPositions, found, largestSoFar, isLargest);
+            robotSelection = isLargest;
+        }
 
-                        robotSelection = isLargest;
-                }
-
-             if (found == false) //If no marbles on the right to left path, selects the position closest to the opponent's end zone.
-                {
-                        binClosestToOpponent(myPositions, found, closestToOpponent);
-
-                        robotSelection = closestToOpponent;
+        if (found == false) //If no marbles on the right to left path, selects the position closest to the opponent's end zone.{
+             binClosestToOpponent(myPositions, found, closestToOpponent);
+             robotSelection = closestToOpponent;
                 }
             }
     }
